@@ -1,0 +1,16 @@
+{
+  "name": "realtime_tic_tac",
+  "version": "1.0.0",
+  "description": "real time tic tac toe game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  }
+}
